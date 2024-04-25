@@ -22,7 +22,7 @@ This project implements a graphical user interface (GUI) calculator using Python
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Calculator-Using-Python.git
+    git clone https://github.com/ThiharaGamalath/Advanced-Calculator-Using-Python.git
     ```
 
 2. Navigate to the project directory:
